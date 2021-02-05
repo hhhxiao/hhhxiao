@@ -6,4 +6,4 @@ I'm a senior undergraduate stduent in UESTC.
 
 - 🌱 I’m currently learning Computer Science.
 
-- ⚡ I'am a minecraft bedorck player
+- ⚡ I'am a minecraft bedrock player
