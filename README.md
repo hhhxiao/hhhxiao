@@ -1,6 +1,5 @@
 ### Hi there 👋
 [![hhhxiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhhxiao)](https://github.com/anuraghazra/github-readme-stats)
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?langs_count=4&username=hhhxiao&exclude_repo=bec,tr-wiki,hhhxiao.github.io,mcdata)](https://github.com/anuraghazra/github-readme-stats)
 
 
