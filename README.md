@@ -7,5 +7,5 @@
 
 ### 🖥️ Developer
 - C++ / C / python
-- Java / Javescript
+- Java / Javascript
 - Rust
