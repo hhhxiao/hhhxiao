@@ -6,5 +6,6 @@
 - Game Tools Developer (MCBE, EldenRing)
 
 ### 🖥️ Developer
-- C++ / C / Python
+- C / C++ / Qt
+- Python
 - Java / Javascript
